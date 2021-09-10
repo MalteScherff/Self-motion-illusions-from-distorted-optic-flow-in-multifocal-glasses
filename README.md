@@ -1,4 +1,4 @@
-# Project PAL
+# Self motion illusions from distorted optic flow in multifocal glasses
 
 This projects models a vision based self-motion estimation and explores the effects of how the distortion
 of the visual input changes such estimations. The estimation process is based on the subspace algorithm by 
