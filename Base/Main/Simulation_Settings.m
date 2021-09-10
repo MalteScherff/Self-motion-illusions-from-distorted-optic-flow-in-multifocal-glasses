@@ -23,7 +23,7 @@ simulation_settings.heading_directions      = [...
 
 % Flowfields are calculated for a movement in heading direction T with 
 % |T| = observer_speed * distance_to_fixation_point                                               
-simulation_settings.observer_speed          = 1000;
+simulation_settings.observer_speed          = 1;
 
 % Used in approximating the derivatives of the functions describing the
 % distortions.
