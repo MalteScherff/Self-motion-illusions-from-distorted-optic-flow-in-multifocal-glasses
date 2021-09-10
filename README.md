@@ -157,5 +157,4 @@ malte.scherff@uni-muenster.de
 
 
 
-https://zenodo.org/badge/404979311.svg
 
